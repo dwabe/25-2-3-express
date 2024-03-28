@@ -21,6 +21,6 @@
   "homepage": "https://github.com/dwabe/25-2-3-express#readme",
   "dependencies": {
     "body-parser": "^1.20.1",
-    "express": "^4.17.3"
+    "express": "^4.19.2"
   }
 }
